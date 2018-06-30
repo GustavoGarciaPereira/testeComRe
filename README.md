@@ -1,3 +1,3 @@
 # testeComRe
-faznedo Testes
+fazenedo Testes
 editando Readme
